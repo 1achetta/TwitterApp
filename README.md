@@ -23,4 +23,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/1achetta/TwitterApp/blob/main/ezgif.com-gif-maker.gif' width='' alt='Video Walkthrough' />
+<img src='https://github.com/1achetta/TwitterApp/blob/main/TwitterOne.gif' width='' alt='Video Walkthrough' />
